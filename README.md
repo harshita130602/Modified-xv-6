@@ -2,7 +2,7 @@
 ## By HARSHITA UPADHYAY (2019101126)
 
 ## Overview
-Various improvements have been made to the xv6 operating system such as the waitx and getpinfo syscall. Scheduling techniques such as FCFS, PBS, and MLFQ have also been implemented.
+Various improvements have been made to the xv6 operating system such as the waitx syscall and ps user program. Scheduling techniques such as FCFS, PBS, and MLFQ have also been implemented.
 
 ## Run the shell
 * Run the following command 

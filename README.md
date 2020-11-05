@@ -1,5 +1,5 @@
 # Tweaking xv-6 
-## By HARSHITA UPADHYAY (2019101126)
+## By HARSHITA UPADHYAY 
 
 ## Overview
 Various improvements have been made to the xv6 operating system such as the waitx syscall and ps user program. Scheduling techniques such as FCFS, PBS, and MLFQ have also been implemented.
